@@ -1,0 +1,9 @@
+{
+  "name": "brockgr/csshx",
+  "type": "project",
+  "description": "Cluster SSH tool for Mac OS X Termial.app",
+  "homepage": "https://github.com/brockgr/csshx",
+  "bin": [
+    "csshX"
+  ]
+}
